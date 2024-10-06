@@ -55,3 +55,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
+<a href="https://github.com/omkarkhot0500/omkarkhot0500">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkarkhot0500/omkarkhot0500/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/omkarkhot0500/omkarkhot0500/main/light_mode.svg">
+  </picture>
+</a>
+
