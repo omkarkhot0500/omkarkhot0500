@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/omkar-khot-346849247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tourmaline-toffee-e981d3.netlify.app/ target="_blank">
+  <a href="https://omkarkhot0500.netlify.app/" >
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
