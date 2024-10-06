@@ -54,11 +54,13 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
-<a href="https://github.com/omkarkhot0500/omkarkhot0500">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkarkhot0500/omkarkhot0500/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/omkarkhot0500/omkarkhot0500/main/light_mode.svg">
-  </picture>
-</a>
+<br>
+<div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-ten.vercel.app?user=omkarkhot0500&theme=transparent" alt="GitHub Streak" /></a>
+  <img width=390 src="https://github-readme-streak-stats-pi-ten.vercel.app?user=omkarkhot0500&theme=transparent&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    [![GitHub Streak](https://github-readme-streak-stats-pi-ten.vercel.app?user=omkarkhot0500&theme=transparent)](https://git.io/streak-stats)
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=omkarkhot0500&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkhot0500&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
