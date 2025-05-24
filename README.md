@@ -6,17 +6,19 @@
 <p align="center">
     <img src="https://github.com/omkarkhot0500/omkarkhot0500/blob/main/gitartwork.svg" />
 </p>  
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h3 align="center">🧑‍💻 Full-Stack Developer | Code Alchemist from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently interested in **opensource**
- 
- 🌱 I’m currently learning **redux toolkit, postgresql, AWS**
 
-💬 Ask me about **Node.js, React, MongoDB... **
+⚡ Building sleek frontends with **React** ⚛️ & solid backends with **Node.js** 🔧  
+🚀 Currently exploring: **Redux Toolkit** 🧠 | **PostgreSQL** 🐘 | **AWS** ☁️  
+💬 Ask me about: **MongoDB** 🍃 | **REST APIs** 🌐 | **JavaScript Magic** ✨  
+📈 Always learning, always building — one commit at a time 🧩🛠️  
+
+</div>
+
 
  <h3 align="center"> How to reach me </h3>
  
@@ -96,15 +98,14 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 My Contributions 🐍</h3
-                              >
+  <div align="center"><strong><h3>🐍 My Contributions 🐍</h3></strong></div>
+
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/omkarkhot0500/omkarkhot0500/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-<h3 align="center">⚡ Stats ⚡</h3></br>
-
+<div align="center"><strong><h3>⚡ Stats ⚡</h3></strong></div></br>
 
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=omkarkhot0500&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
